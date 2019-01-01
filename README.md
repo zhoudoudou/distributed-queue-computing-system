@@ -2,7 +2,7 @@
 
 # 分布式队列计算系统
 
-![image-20181228165107961](/var/folders/px/xg2lydbx5d552wf1m3nbw4nw0000gn/T/abnerworks.Typora/image-20181228165107961.png)
+![image-20181228165107961](./1546330101777.jpg)
 
 
 
